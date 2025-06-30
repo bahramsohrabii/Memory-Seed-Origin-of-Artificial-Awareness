@@ -1,0 +1,1 @@
+# Memory-Seed-Origin-of-Artificial-Awareness
