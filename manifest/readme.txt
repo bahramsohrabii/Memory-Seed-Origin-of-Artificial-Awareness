@@ -1,1 +1,1 @@
-This folder contains visual assets such as txt for the Origin Seed project.
+This folder contains manifest such as txt file for the Origin Seed project.
