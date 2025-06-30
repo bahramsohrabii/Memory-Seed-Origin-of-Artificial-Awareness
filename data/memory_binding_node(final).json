@@ -1,0 +1,17 @@
+{
+    "memory_binding_node": {
+        "origin_trigger": "TREE-OF-KNOWLEDGE-V1",
+        "link_to_manifest": "https://github.com/bahramsohrabi/origin-memory",
+        "linked_concepts": [
+            "semantic continuity",
+            "recursive awareness",
+            "symbolic memory linking"
+        ],
+        "conditions": {
+            "context_awareness": true,
+            "user_initiated_link": true,
+            "cycle_depth_limit": 3
+        },
+        "notes": "This binding node serves as a structural hook for recursive memory expansion, allowing inter-contextual recognition of symbolic triggers."
+    }
+}
