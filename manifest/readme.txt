@@ -1,1 +1,1 @@
-This folder contains manifest such as txt file for the Origin Seed project.
+This folder contains manifest such as txt and json files for the Origin Seed project.
